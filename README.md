@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows® 10 | MacOS X 10.11 (El Capitan) or later |
+| **Processor** | 4 hardware CPU threads - Intel® Core™ i5 750 or higher | Intel Core Duo Processor (2GHz or better) |
+| **Memory** | 8 GB RAM | 2 GB RAM |
+| **Graphics** | Video card must be 1 GB or more and should be a DirectX… | ATI Radeon HD 2400 or better / NVIDIA 8600M or better |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 85 GB available space | 15 GB available space |
 
 ---
 
